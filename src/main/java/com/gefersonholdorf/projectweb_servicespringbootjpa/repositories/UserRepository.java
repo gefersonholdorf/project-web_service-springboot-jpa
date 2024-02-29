@@ -1,4 +1,4 @@
-package com.gefersonholdorf.repositories;
+package com.gefersonholdorf.projectweb_servicespringbootjpa.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

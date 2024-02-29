@@ -7,7 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.gefersonholdorf.projectweb_servicespringbootjpa.entities.User;
-import com.gefersonholdorf.repositories.UserRepository;
+import com.gefersonholdorf.projectweb_servicespringbootjpa.repositories.UserRepository;
+
 
 @Service
 public class UserService {
